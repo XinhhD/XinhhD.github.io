@@ -12,7 +12,7 @@ permalink: /projects
 导师：jinZhang
 创新实验课题，利用声波结合手机传感器构造出房间的轮廓
 
-![mapping](mapping.jpg)
+![mapping](D:/PageP/XinhhD.github.io/mapping.jpg)
 
 下面是报告链接（26页）
 
@@ -34,10 +34,11 @@ permalink: /projects
 
 
 <div>
-  <img src="主页.png" alt="主页" height="270dp">
-  <img src="搜索页.png" alt="搜索页" height="270dp">
-  <img src="详情页.png" alt="详情页" height="270dp">
+  <img src="javaFX-1.gif" alt="演示1" height="300dp">
+   <img src="javaFX-2.gif" alt="演示2" height="300dp">
 </div>
+
+
 
 详情链接：[<u>github</u>](https://github.com/XinhhD/java2_Project_MoviePlayer)
 
@@ -51,11 +52,13 @@ permalink: /projects
 - 最大递归六层（4秒内做出决策）
 - 棋力排名课程内 9/150
 
-报告链接： <u>[GomokuReport_11610320.pdf](GomokuReport_11610320.pdf)</u>
+报告链接： <u>[GomokuReport_11610320.pdf](GomokuReport_11610320.pdf)</u> 
 
 （未防抄袭尚未开源）
 
-![α-belta剪](α-belta剪.png)
+<div>
+  <img src="α-belta剪.png" alt="α-belta剪">
+</div>
 
 #### IMP
 
@@ -68,21 +71,24 @@ permalink: /projects
 - 得分排名课程内 6/150（分数：97/100）
 
 <div>
-  <img src="IMP.png" alt="imp" height="400dp">
+  <img src="IMP.png" alt="imp" height=250>
 </div>
 
-报告链接： [<u>IMP_11610320.pdf](IMP_11610320.pdf)</u>
+
+
+报告链接： [<u>IMP_11610320.pdf](IMP_11610320.pdf)</u> 
 
 #### SUSTech Card
 
 校园式卡牌游戏（五人项目）
 
 - Unity
-- 商店系统
 - 南科大元素
 - 仿昆特牌
 
-<video src="C:\Users\邓鑫怀\Desktop\媒体2.mp4"></video>
+<div>
+  <img src="cardGame.gif" alt="游戏演示1">
+</div>
 
 #### MQTT
 
