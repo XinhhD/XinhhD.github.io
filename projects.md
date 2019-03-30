@@ -52,7 +52,11 @@ permalink: /projects
 - 最大递归六层（4秒内做出决策）
 - 棋力排名课程内 9/150
 
-报告链接： <u>[GomokuReport_11610320.pdf](GomokuReport_11610320.pdf)</u>
+报告链接：
+
+<div>
+ <a href="GomokuReport_11610320.pdf"> <u>GomokuReport_11610320.pdf</u></a>
+</div>
 
 （未防抄袭尚未开源）
 
@@ -76,7 +80,11 @@ permalink: /projects
 
 
 
-报告链接： [<u>IMP_11610320.pdf](IMP_11610320.pdf)</u>
+报告链接：
+
+<div>
+ <a href="IMP_11610320.pdf"> <u>IMP_11610320.pdf </u></a>
+</div>
 
 #### SUSTech Card
 
