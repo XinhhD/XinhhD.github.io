@@ -12,7 +12,7 @@ permalink: /projects
 导师：jinZhang
 创新实验课题，利用声波结合手机传感器构造出房间的轮廓
 
-![mapping](https://www.penna.online/images/CV/mapping.jpg)
+![mapping](mapping.jpg)
 
 下面是报告链接（26页）
 
