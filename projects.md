@@ -5,9 +5,11 @@ permalink: /projects
 ---
 # 个人简历
 
+$LastModified: 2019.03.31$
+
 ## Reasearch
 
-#### Detecting Room Structures Based on Smartphone
+### Detecting Room Structures Based on Smartphone
 
 导师：jinZhang
 创新实验课题，利用声波结合手机传感器构造出房间的轮廓
@@ -20,7 +22,7 @@ permalink: /projects
 
 ## Course Project
 
-#### In-flight-entertainment-system
+### In-flight-entertainment-system
 
 航班电影播放系统（三人项目）
 
@@ -46,7 +48,7 @@ permalink: /projects
 
 
 
-#### Gobang
+### Gobang
 
 基于alpha-beta剪枝的min-max五子棋
 
@@ -68,7 +70,7 @@ permalink: /projects
   <img src="α-belta剪.png" alt="α-belta剪">
 </div>
 
-#### IMP
+### IMP
 
 基于图论的影响力最大化问题
 
@@ -91,7 +93,7 @@ permalink: /projects
  <a href="IMP_11610320.pdf"> <u>IMP_11610320.pdf </u></a>
 </div>
 
-#### SUSTech Card
+### SUSTech Card
 
 校园式卡牌游戏（五人项目）
 
@@ -103,7 +105,7 @@ permalink: /projects
   <img src="cardGame.gif" alt="游戏演示1">
 </div>
 
-#### MQTT
+### MQTT
 
 计算机网络期末项目（三人）
 
