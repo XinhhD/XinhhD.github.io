@@ -5,7 +5,7 @@ permalink: /projects
 ---
 # 个人简历
 
-$LastModified: 2019.03.31$
+#### LastModified: 2019.03.31​
 
 ## Reasearch
 
