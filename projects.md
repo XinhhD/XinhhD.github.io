@@ -3,7 +3,7 @@ layout: minimal
 title: Project
 permalink: /projects
 ---
-# 个人简历
+# 项目介绍
 
 #### LastModified: 2019.03.31​
 
