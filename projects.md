@@ -70,6 +70,9 @@ permalink: /projects
   <img src="α-belta剪.png" alt="α-belta剪">
 </div>
 
+
+
+
 ### IMP
 
 基于图论的影响力最大化问题
@@ -83,15 +86,14 @@ permalink: /projects
 <div>
   <img src="IMP.png" alt="imp">
 </div>
-
-
-
-
 报告链接：
 
 <div>
  <a href="IMP_11610320.pdf"> <u>IMP_11610320.pdf </u></a>
 </div>
+
+
+
 
 ### SUSTech Card
 
@@ -104,6 +106,9 @@ permalink: /projects
 <div>
   <img src="cardGame.gif" alt="游戏演示1">
 </div>
+
+
+
 
 ### MQTT
 
