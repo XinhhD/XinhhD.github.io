@@ -37,8 +37,8 @@ permalink: /projects
 
 <div>
   <img src="javaFX-1.gif" alt="演示1">
-   <img src="javaFX-2.gif" alt="演示2">
 </div>
+
 
 
 
