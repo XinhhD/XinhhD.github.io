@@ -46,8 +46,6 @@ permalink: /projects
 
 
 
-
-
 ### Gobang
 
 基于alpha-beta剪枝的min-max五子棋
@@ -67,9 +65,8 @@ permalink: /projects
 （未防抄袭尚未开源）
 
 <div>
-  <img src="α-belta剪.png" alt="α-belta剪">
+  <img src="α-belta.png" alt="α-belta">
 </div>
-
 
 
 
@@ -93,8 +90,6 @@ permalink: /projects
 </div>
 
 
-
-
 ### SUSTech Card
 
 校园式卡牌游戏（五人项目）
@@ -106,8 +101,6 @@ permalink: /projects
 <div>
   <img src="cardGame.gif" alt="游戏演示1">
 </div>
-
-
 
 
 ### MQTT
