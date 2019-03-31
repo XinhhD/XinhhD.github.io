@@ -36,7 +36,7 @@ permalink: /projects
 
 
 <div>
-  <img src="javaFX-1.gif" alt="演示1">
+  <img src="javaFX-1.gif" alt="[演示1.gif]">
 </div>
 
 
@@ -65,7 +65,7 @@ permalink: /projects
 （未防抄袭尚未开源）
 
 <div>
-  <img src="α-belta.png" alt="α-belta">
+  <img src="α-belta.png" alt="[α-belta.png]">
 </div>
 
 
@@ -81,8 +81,9 @@ permalink: /projects
 - 得分排名课程内 6/150（分数：97/100）
 
 <div>
-  <img src="IMP.png" alt="imp">
+  <img src="IMP.png" alt="[imp.png]">
 </div>
+
 报告链接：
 
 <div>
@@ -99,8 +100,9 @@ permalink: /projects
 - 仿昆特牌
 
 <div>
-  <img src="cardGame.gif" alt="游戏演示1">
+  <img src="cardGame.gif" alt="[游戏演示1.gif]">
 </div>
+
 
 
 ### MQTT
@@ -117,5 +119,5 @@ permalink: /projects
 详情链接：[<u>github</u>](https://github.com/XinhhD/Mqtt)
 
 <div>
-  <img src="MQTT.jpg" alt="MQTT" height="400dp">
+  <img src="MQTT.jpg" alt="[MQTT.jpg]" height="400dp">
 </div>
